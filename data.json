@@ -1,294 +1,320 @@
 {
-  "press": [
-    {
-      "url": "http://www.bloomberg.com/video/why-do-web-sites-experiment-on-their-users-oMdUp3h_RfSlyEks0DJvlg.html",
-      "publisher": "Bloomberg TV",
-      "title": "Casper disrupts the mattress industry",
-      "publish_at": "July 30, 2014"
+  "en": {
+    "name": "The Mattress",
+    "lookup_slug": "mattress",
+    "lowest_price": 500,
+    "reviews": {
+      "avg_rating": 4.4,
+      "total_count": 6003,
+      "ratings": [
+        {
+          "rating": 5,
+          "count": 4267
+        },
+        {
+          "rating": 4,
+          "count": 776
+        },
+        {
+          "rating": 3,
+          "count": 501
+        },
+        {
+          "rating": 2,
+          "count": 289
+        },
+        {
+          "rating": 1,
+          "count": 170
+        }
+      ]
     },
-    {
-      "url": "http://www.forbes.com/sites/joshlinkner/2014/07/24/customer-experience-is-the-new-battleground/",
-      "publisher": "Forbes",
-      "title": "Customer experience is the new battleground",
-      "publish_at": "July 24, 2014"
+    "options": {
+      "size": [
+        "Twin",
+        "Twin XL",
+        "Full",
+        "Queen",
+        "King",
+        "CAL King"
+      ],
+      "size_slug": [
+        "twin",
+        "twin-xl",
+        "full",
+        "queen",
+        "king",
+        "california-king"
+      ]
     },
-    {
-      "url": "https://www.americanexpress.com/us/small-business/openforum/articles/how-one-company-reinvented-the-most-ordinary-product-you-can-imagine/",
-      "publisher": "OPEN",
-      "title": "How one company reinvented the most ordinary product you can imagine",
-      "publish_at": "July 1, 2014"
-    },
-    {
-      "url": "http://www.remodelista.com/posts/mattresses-by-silicon-valley-startups-casper-and-tuft-needle",
-      "publisher": "Remodelista",
-      "title": "Reinventing the mattress, silicon valley edition",
-      "publish_at": "June 13, 2014"
-    },
-    {
-      "url": "http://thenextweb.com/insider/2014/06/05/2-weeks-casper-mattress-bedtime-never-felt-good/",
-      "publisher": "The Next Web",
-      "title": "2 weeks with the Casper mattress: Bedtime never felt so good",
-      "publish_at": "June 4, 2014"
-    },
-    {
-      "url": "http://www.brobible.com/gear/article/10-things-we-want-this-week/",
-      "publisher": "BroBible",
-      "title": "10 things we want this week",
-      "publish_at": "May 16, 2014"
-    },
-    {
-      "url": "www.nydailynews.com/life-style/internet-week-new-york-shows-city-tech-sector-article-1.1794453",
-      "publisher": "New York Daily News",
-      "title": "Casper did the impossible by making the process of buying a mattress sexy",
-      "publish_at": "May 15, 2014"
-    },
-    {
-      "url": "http://www.pastemagazine.com/articles/2014/05/startup-casper-delivers-mattresses-in-a-box-to-you.html",
-      "publisher": "Paste",
-      "title": "Startup Casper Delivers Mattresses in a Box to Your Door",
-      "publish_at": "May 9, 2014"
-    },
-    {
-      "url": "http://theawesomer.com/casper-mattress/278341/",
-      "publisher": "The Awesomer",
-      "title": "Meet the Casper Mattress",
-      "publish_at": "May 6, 2014"
-    },
-    {
-      "url": "http://www.cbsnews.com/news/mattress-startup-ceo-shares-his-strategy/",
-      "publisher": "CBS Moneywatch",
-      "title": "Mattress Startup CEO Shares his Strategy",
-      "publish_at": "April 30, 2014"
-    },
-    {
-      "url": "http://www.lonny.com/Scout+Out/articles/et08Ta0gE9I/Mattress+Startup+Casper+Delivers+Good+Night",
-      "publisher": "Lonny",
-      "title": "Mattress Startup Casper Delivers A Good Night's Sleep",
-      "publish_at": "April 29, 2014"
-    },
-    {
-      "url": "http://freshome.com/2014/04/29/done-revolutionary-mattress-fits-inside-trunk-cab-casper/",
-      "publisher": "Freshome",
-      "title": "Revolutionary Mattress That Fits Inside the Trunk of a Cab: Casper",
-      "publish_at": "April 29, 2014"
-    },
-    {
-      "url": "http://www.gadgetreview.com/2014/04/5-reasons-why-youll-get-better-sleep-with-the-casper-mattress.html",
-      "publisher": "GadgetReview",
-      "title": "Kristie Bertucci  5 Reasons Why You’ll Get Better Sleep With The Casper Mattress",
-      "publish_at": "April 28, 2014"
-    },
-    {
-      "url": "http://www.mademan.com/casper-mattress/",
-      "publisher": "MadeMan",
-      "title": "Here’s Something Cool: The Casper Mattress",
-      "publish_at": "May 25, 2014"
-    },
-    {
-      "url": "http://www.dudeiwantthat.com/household/furniture/the-casper-hug-bounce-mattress.asp",
-      "publisher": "Dude I Want That",
-      "title": "The Casper Hug & Bounce Mattress",
-      "publish_at": "May 25, 2014"
-    },
-    {
-      "url": "http://gearpatrol.com/2014/04/24/today-in-gear-april-24-2014/",
-      "publisher": "Gear Patrol",
-      "title": "Today In Gear: April 24, 2014 - The Casper Mattress",
-      "publish_at": "May 24, 2014"
-    },
-    {
-      "url": "http://www.chipchick.com/2014/04/casper-reinvents-mattress.html",
-      "publisher": "ChipChick",
-      "title": "New Startup Casper is Waking Up the Mattress Industry",
-      "publish_at": "May 24, 2014"
-    },
-    {
-      "url": "http://uncrate.com/stuff/casper-mattress/",
-      "publisher": "Uncrate",
-      "title": "The Casper mattress",
-      "publish_at": "May 24, 2014"
-    },
-    {
-      "url": "http://www.cbsnews.com/news/startup-wants-to-take-the-stress-out-of-buying-a-mattress/",
-      "publisher": "CBS Moneywatch",
-      "title": "Startup wants to take the stress out of buying a mattress",
-      "publish_at": "May 24, 2014"
-    },
-    {
-      "url": "http://www.digitaltrends.com/home/casper-lands-1-9m-seed-funding-send-mattress-box/#!FEVe7",
-      "publisher": "Digital Trends",
-      "title": "NYC startup Casper delivers king-size mattresses in golf-bag-sized boxes",
-      "publish_at": "May 23, 2014"
-    },
-    {
-      "url": "http://www.psfk.com/2014/04/foldable-matress.html#!FERu2",
-      "publisher": "PSFK",
-      "title": "Foldable Mattress Can Fit In The Trunk of Your Car",
-      "publish_at": "May 23, 2014"
-    },
-    {
-      "url": "http://www.insidehook.com/new-york/casper-mattresses-new-york/",
-      "publisher": "InsideHook",
-      "title": "Casper Pad - Better, cheaper, softer mattress, via Casper",
-      "publish_at": "May 23, 2014"
-    },
-    {
-      "url": "http://www.businessweek.com/articles/2014-04-22/will-a-web-only-mattress-startup-keep-serta-and-sealy-up-at-night",
-      "publisher": "Bloomberg Businessweek",
-      "title": "Will a Web-Only Mattress Startup Keep Serta and Sealy Up at Night?",
-      "publish_at": "May 22, 2014"
-    },
-    {
-      "url": "http://laughingsquid.com/casper-an-innovative-mattress-that-combines-latex-with-memory-foam/",
-      "publisher": "The Laughing Squid",
-      "title": "Casper, An Innovative Mattress That Combines Latex With Memory Foam",
-      "publish_at": "May 22, 2014"
-    },
-    {
-      "url": "http://www.entrepreneur.com/article/233309",
-      "publisher": "Entrepreneur",
-      "title": "This Startup Aims to Be the Tesla of Mattresses",
-      "publish_at": "May 22, 2014"
-    },
-    {
-      "url": "http://www.escapistmagazine.com/news/view/133919-Casper-A-New-Startup-is-Finally-Taking-On-the-Mattress-Industry",
-      "publisher": "Escapist",
-      "title": "Casper: A New Startup is Finally Taking On the Mattress Industry",
-      "publish_at": "May 22, 2014"
-    },
-    {
-      "url": "http://bedtimesmagazine.com/2014/04/new-casper-mattress-brand-available-in-a-single-model/",
-      "publisher": "Bed Times",
-      "title": "New Casper mattress brand available in a single model",
-      "publish_at": "May 22, 2014"
-    },
-    {
-      "url": "http://www.shinyshiny.tv/2014/04/casper-mattress-service.html",
-      "publisher": "ShinyShiny",
-      "title": "Will the Casper mattress change the way we sleep for good?",
-      "publish_at": "May 22, 2014"
-    },
-    {
-      "url": "http://www.apartmenttherapy.com/a-new-mattress-shopping-experiences-launches-today-casper-202725",
-      "publisher": "Apartment Therapy",
-      "title": "A New Mattress Shopping Experience Launches Today: Casper",
-      "publish_at": "May 22, 2014"
-    },
-    {
-      "url": "http://gizmodo.com/the-mattress-gets-reinvented-and-stuffed-in-the-trunk-o-1566175652/all",
-      "publisher": "Gizmodo",
-      "title": "The Mattress Gets Reinvented (and Stuffed In the Trunk of Your Car)",
-      "publish_at": "May 22, 2014"
-    },
-    {
-      "url": "http://getwakefield.com/2014/04/22/sleep-startup-casper-launches-today-with-a-better-bed/",
-      "publisher": "Wakefield",
-      "title": "Sleep startup Casper launches today with a better bed",
-      "publish_at": "May 22, 2014"
-    },
-    {
-      "url": "http://www.supercompressor.com/home/new-mattress-company-changes-bed-shopping-casper-offers-40-day-memory-foam-trial",
-      "publisher": "Supercompressor",
-      "title": "This Should Be Your Next Mattress",
-      "publish_at": "May 22, 2014"
-    },
-    {
-      "url": "http://brickunderground.com/blog/2014/04/casper_mattress_test_drive",
-      "publisher": "BrickUnderground",
-      "title": "Moving? This NYC start-up wants to take the pain out of buying a mattress (also picked up in Business Insider)",
-      "publish_at": "May 22, 2014"
-    },
-    {
-      "url": "http://www.businessinsider.com/casper-foldable-beds-that-fit-in-a-car-trunk-2014-4",
-      "publisher": "Business Insider",
-      "title": "There's A 'Warby Parker Of Mattresses' That's Shipping Fluffy, King-Size Beds In Boxes As Small As Golf Bags",
-      "publish_at": "May 22, 2014"
-    },
-    {
-      "url": "http://thenextweb.com/insider/2014/04/22/sleep-startup-casper-launches-re-engineered-mattress-fits-trunk-car/",
-      "publisher": "The Next Web",
-      "title": "Sleep startup Casper launches a re-engineered mattress that fits in the trunk of your car",
-      "publish_at": "May 22, 2014"
-    },
-    {
-      "url": "http://www.theverge.com/2014/4/22/5638400/casper-dreams-of-overturning-the-mattress-racket",
-      "publisher": "The Verge",
-      "title": "Sleep startup' Casper dreams of overturning the mattress racket",
-      "publish_at": "May 22, 2014"
-    },
-    {
-      "url": "http://mad.ly/132a84?pact=20765363527&fe=1",
-      "publisher": "Strictly VC",
-      "title": "New Fundings",
-      "publish_at": "February 26, 2014"
-    },
-    {
-      "url": "http://www.techinvestornews.com/Tech-News/Tech-Bloggers/a-startup-for-your-mattress-casper-raises-1.6m-to-reinvent-sleep",
-      "publisher": "Tech Investor News",
-      "title": "A startup for your mattress: Casper raises $1.6M to reinvent sleep",
-      "publish_at": "February 25, 2014"
-    },
-    {
-      "url": "http://finance.fortune.cnn.com/2014/02/25/deals-shape-security/",
-      "publisher": "Fortune - Term Sheet",
-      "title": "Deals of the day: Shape Security raises $40 million",
-      "publish_at": "February 25, 2014"
-    },
-    {
-      "url": "http://blogs.wsj.com/venturecapital/2014/02/25/the-daily-startup-sunrun-sets-sights-on-solarcity-as-residential-solar-market-heats-up/",
-      "publisher": "WSJ Blogs - Venture Capital Dispatch",
-      "title": "The Daily Startup: Sunrun Sets Sights on SolarCity as Residential Solar Market Heats Up",
-      "publish_at": "February 25, 2014"
-    },
-    {
-      "url": "http://www.pehub.com/2014/02/lerer-ventures-leads-seed-round-for-casper/",
-      "publisher": "peHUB",
-      "title": "Lerer Ventures leads seed round for Casper",
-      "publish_at": "February 25, 2014"
-    },
-    {
-      "url": "http://pevc.dowjones.com/Article?an=DJFVW00020140225ea2pap1ew&cid=32135007&ctype=ts",
-      "publisher": "VentureWire",
-      "title": "Casper Raises $1.6M to Become a Warby Parker for Mattresses",
-      "publish_at": "February 25, 2014"
-    },
-    {
-      "url": "http://venturebeat.com/2014/02/25/boo-casper-raises-1-6m-to-reinvent-the-modern-mattress/",
-      "publisher": "VentureBeat",
-      "title": "A startup for your mattress: Casper raises $1.6M to reinvent sleep",
-      "publish_at": "February 25, 2014"
-    },
-    {
-      "url": "http://techcrunch.com/2014/02/25/casper-seed-funding",
-      "publisher": "TechCrunch",
-      "title": "Casper Raises $1.6M To Offer A New Approach To Building And Selling Mattresses",
-      "publish_at": "February 25, 2014"
-    }
-  ],
-  "reviews": [
-    {
-      "rating": 5,
-      "title": "Really happy with my Casper",
-      "author": {
-        "name": "Boris Parker",
-        "verified": true,
-        "location": "Woodside, NY",
-        "age": 37
+    "variants": [
+      {
+        "id": 2,
+        "sku": "CA001-01-GRY-1",
+        "name": "The Mattress",
+        "product_lookup_slug": "mattress",
+        "category": "Mattresses",
+        "is_default": false,
+        "price": 500,
+        "options": {
+          "size": "Twin",
+          "size_slug": "twin"
+        },
+        "options_text": "Size: Twin",
+        "dimensions": "39” X 75” X 10”",
+        "ships_by": "March 1",
+        "ready_to_ship": true,
+        "yml_product_lookup_slug": "mattress"
       },
-      "date": "12/22/2005",
-      "body": "We where a little sceptical on buying a mattress online especially one that comes in a box but after testing it out at the NYC showroom we felt it was the best option. We've slept on it for about 3 weeks now and couldn't be more satisfied. It is the perfect firmness and support for someone with backaches. My sleeping has improved so much, it's hard to get out of bed. The wife loves that mattress stays cool through the night. Customer service was terrific and it was delivered same day! Simply the best! "
-    },
-    {
-      "rating": 5,
-      "title": "Really happy with my Casper",
-      "author": {
-        "name": "Judy Parker",
-        "verified": true,
-        "location": "Woodside, NY",
-        "age": 37
+      {
+        "id": 3,
+        "sku": "CA001-01-GRY-2",
+        "name": "The Mattress",
+        "product_lookup_slug": "mattress",
+        "category": "Mattresses",
+        "is_default": false,
+        "price": 600,
+        "options": {
+          "size": "Twin XL",
+          "size_slug": "twin-xl"
+        },
+        "options_text": "Size: Twin XL",
+        "dimensions": "39” X 80” X 10”",
+        "ships_by": "March 1",
+        "ready_to_ship": true,
+        "yml_product_lookup_slug": "mattress"
       },
-      "date": "12/22/2005",
-      "body": "We where a little sceptical on buying a mattress online especially one that comes in a box but after testing it out at the NYC showroom we felt it was the best option. We've slept on it for about 3 weeks now and couldn't be more satisfied. It is the perfect firmness and support for someone with backaches. My sleeping has improved so much, it's hard to get out of bed. The wife loves that mattress stays cool through the night. Customer service was terrific and it was delivered same day! Simply the best! "
-    }
-  ]
+      {
+        "id": 4,
+        "sku": "CA001-01-GRY-3",
+        "name": "The Mattress",
+        "product_lookup_slug": "mattress",
+        "category": "Mattresses",
+        "is_default": false,
+        "price": 750,
+        "options": {
+          "size": "Full",
+          "size_slug": "full"
+        },
+        "options_text": "Size: Full",
+        "dimensions": "54” X 75” X 10”",
+        "ships_by": "March 1",
+        "ready_to_ship": true,
+        "yml_product_lookup_slug": "mattress"
+      },
+      {
+        "id": 5,
+        "sku": "CA001-01-GRY-4",
+        "name": "The Mattress",
+        "product_lookup_slug": "mattress",
+        "category": "Mattresses",
+        "is_default": false,
+        "price": 850,
+        "options": {
+          "size": "Queen",
+          "size_slug": "queen"
+        },
+        "options_text": "Size: Queen",
+        "dimensions": "60” X 80” X 10”",
+        "ships_by": "March 1",
+        "ready_to_ship": true,
+        "yml_product_lookup_slug": "mattress"
+      },
+      {
+        "id": 6,
+        "sku": "CA001-01-GRY-5",
+        "name": "The Mattress",
+        "product_lookup_slug": "mattress",
+        "category": "Mattresses",
+        "is_default": true,
+        "price": 950,
+        "options": {
+          "size": "King",
+          "size_slug": "king"
+        },
+        "options_text": "Size: King",
+        "dimensions": "76” X 80” X 10”",
+        "ships_by": "March 1",
+        "ready_to_ship": true,
+        "yml_product_lookup_slug": "mattress"
+      },
+      {
+        "id": 7,
+        "sku": "CA001-01-GRY-6",
+        "name": "The Mattress",
+        "product_lookup_slug": "mattress",
+        "category": "Mattresses",
+        "is_default": false,
+        "price": 950,
+        "options": {
+          "size": "CAL King",
+          "size_slug": "california-king"
+        },
+        "options_text": "Size: CAL King",
+        "dimensions": "72” X 84” X 10”",
+        "ships_by": "March 1",
+        "ready_to_ship": true,
+        "yml_product_lookup_slug": "mattress"
+      }
+    ]
+  },
+  "de": {
+    "name": "Casper Matratze",
+    "lookup_slug": "mattress",
+    "lowest_price": 400,
+    "reviews": {
+      "avg_rating": 4.5,
+      "total_count": 4642,
+      "ratings": [
+        {
+          "rating": 5,
+          "count": 3456
+        },
+        {
+          "rating": 4,
+          "count": 548
+        },
+        {
+          "rating": 3,
+          "count": 322
+        },
+        {
+          "rating": 2,
+          "count": 199
+        },
+        {
+          "rating": 1,
+          "count": 117
+        }
+      ]
+    },
+    "options": {
+      "size": [
+        "80 X 200 CM",
+        "90 X 200 CM",
+        "100 X 200 CM",
+        "140 X 200 CM",
+        "160 X 200 CM",
+        "180 X 200 CM"
+      ],
+      "size_slug": [
+        "80X200",
+        "90X200",
+        "100X200",
+        "140X200",
+        "160X200",
+        "180X200"
+      ]
+    },
+    "variants": [
+      {
+        "id": 129,
+        "sku": "MATRATZE80X200",
+        "name": "Casper Matratze",
+        "product_lookup_slug": "mattress",
+        "category": "Mattresses",
+        "is_default": false,
+        "price": 400,
+        "options": {
+          "size": "80 X 200 CM",
+          "size_slug": "80X200"
+        },
+        "options_text": "Größe: 80 X 200 CM",
+        "dimensions": "80 X 200 X 24 CM",
+        "ships_by": null,
+        "ready_to_ship": true,
+        "yml_product_lookup_slug": "mattress"
+      },
+      {
+        "id": 130,
+        "sku": "MATRATZE90X200",
+        "name": "Casper Matratze",
+        "product_lookup_slug": "mattress",
+        "category": "Mattresses",
+        "is_default": true,
+        "price": 450,
+        "options": {
+          "size": "90 X 200 CM",
+          "size_slug": "90X200"
+        },
+        "options_text": "Größe: 90 X 200 CM",
+        "dimensions": "90 X 200 X 24 CM",
+        "ships_by": null,
+        "ready_to_ship": true,
+        "yml_product_lookup_slug": "mattress"
+      },
+      {
+        "id": 131,
+        "sku": "MATRATZE100X200",
+        "name": "Casper Matratze",
+        "product_lookup_slug": "mattress",
+        "category": "Mattresses",
+        "is_default": false,
+        "price": 500,
+        "options": {
+          "size": "100 X 200 CM",
+          "size_slug": "100X200"
+        },
+        "options_text": "Größe: 100 X 200 CM",
+        "dimensions": "100 X 200 X 24 CM",
+        "ships_by": null,
+        "ready_to_ship": true,
+        "yml_product_lookup_slug": "mattress"
+      },
+      {
+        "id": 132,
+        "sku": "MATRATZE140X200",
+        "name": "Casper Matratze",
+        "product_lookup_slug": "mattress",
+        "category": "Mattresses",
+        "is_default": false,
+        "price": 600,
+        "options": {
+          "size": "140 X 200 CM",
+          "size_slug": "140X200"
+        },
+        "options_text": "Größe: 140 X 200 CM",
+        "dimensions": "140 X 200 X 24 CM",
+        "ships_by": null,
+        "ready_to_ship": true,
+        "yml_product_lookup_slug": "mattress"
+      },
+      {
+        "id": 133,
+        "sku": "MATRATZE160X200",
+        "name": "Casper Matratze",
+        "product_lookup_slug": "mattress",
+        "category": "Mattresses",
+        "is_default": false,
+        "price": 700,
+        "options": {
+          "size": "160 X 200 CM",
+          "size_slug": "160X200"
+        },
+        "options_text": "Größe: 160 X 200 CM",
+        "dimensions": "160 X 200 X 24 CM",
+        "ships_by": null,
+        "ready_to_ship": true,
+        "yml_product_lookup_slug": "mattress"
+      },
+      {
+        "id": 134,
+        "sku": "MATRATZE180X200",
+        "name": "Casper Matratze",
+        "product_lookup_slug": "mattress",
+        "category": "Mattresses",
+        "is_default": false,
+        "price": 800,
+        "options": {
+          "size": "180 X 200 CM",
+          "size_slug": "180X200"
+        },
+        "options_text": "Größe: 180 X 200 CM",
+        "dimensions": "180 X 200 X 24 CM",
+        "ships_by": null,
+        "ready_to_ship": true,
+        "yml_product_lookup_slug": "mattress"
+      }
+    ]
+  }
 }
